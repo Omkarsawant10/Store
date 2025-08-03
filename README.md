@@ -1,7 +1,7 @@
 ## 🚀 How to Run the Project
 
 📁 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Omkarsawant10/Store
 
 📦 2. Backend Setup
 cd server
