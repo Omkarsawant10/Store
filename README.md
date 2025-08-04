@@ -18,7 +18,7 @@ npm run dev
 .env file in the server directory:
 Add Your Database URL
 
-🌱 4. Seed the Database
+🌱 5. Seed the Database
 Seed the Database (adds default Admin user)
 you can register admin user through seed.js file and run
 
